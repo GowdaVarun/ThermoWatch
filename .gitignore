@@ -1,0 +1,48 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE / editor cruft
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash reports and misc
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Builds and packaged results
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.7z
